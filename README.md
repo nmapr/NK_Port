@@ -35,8 +35,8 @@ Expertise in corporate financial reporting and accounting
 </div>
 
 ### 👩‍🎓 Education
-- MSc Business Analytics and Big Data from Politecnico di Milano Graduate School of Business (Milan, Italy)
-- BSc Accounting from Chulalongkorn University (Bangkok, Thailand)
+- MSc Business Analytics and Big Data 🏫Politecnico di Milano Graduate School of Business (Milan, Italy)
+- BSc Accounting 🏫Chulalongkorn University (Bangkok, Thailand)
 
 
 Feel free to connect with me via linkedin <div id="badges">
