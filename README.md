@@ -11,12 +11,8 @@ Expertise in corporate financial reporting and accounting
   <img src="https://komarev.com/ghpvc/?username=nmapr&style=flat-square&color=blue" alt=""/>
 </div>
 
-
-
 ## About me
-I'm an entry-level data analytics professional :woman_technologist: with proficiency in Excel, SQL and Python |
-Recently graduated with a master's degree in Business Analytics and Big Data with final grade 103/110 | 
-Expertise in corporate financial reporting and accounting
+With three years in finance and accounting, I'm enthusiastic about shifting into :woman_technologist: data analytics. My recent graduation with a commendable 103/110 in a Master's in Business Analytics and Big Data program equipped me with a strong data science foundation and hands-on projects. Alongside this, I bring strong skills in SQL, Python, and data visualization tools, making me well-prepared for data-driven roles.
 
 ### 👩‍🎓 Education
 - MSc Business Analytics and Big Data 🏫Politecnico di Milano Graduate School of Business (Milan, Italy)
