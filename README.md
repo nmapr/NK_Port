@@ -18,6 +18,16 @@ I'm an entry-level data analytics professional :woman_technologist: with profici
 Recently graduated with a master's degree in Business Analytics and Big Data with final grade 103/110 | 
 Expertise in corporate financial reporting and accounting
 
+### 👩‍🎓 Education
+- MSc Business Analytics and Big Data 🏫Politecnico di Milano Graduate School of Business (Milan, Italy)
+- BSc Accounting 🏫Chulalongkorn University (Bangkok, Thailand)
+
+Feel free to connect with me via linkedin <div id="badges">
+  <a href="https://www.linkedin.com/in/nattk/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 ### :hammer_and_wrench: Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
@@ -34,13 +44,13 @@ Expertise in corporate financial reporting and accounting
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" **alt="canva" width="40" height="40"/>
 </div>
 
-### 👩‍🎓 Education
-- MSc Business Analytics and Big Data 🏫Politecnico di Milano Graduate School of Business (Milan, Italy)
-- BSc Accounting 🏫Chulalongkorn University (Bangkok, Thailand)
-
-
-Feel free to connect with me via linkedin <div id="badges">
-  <a href="https://www.linkedin.com/in/nattk/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+## 📂 My Projects
+- Land Use Classification
+<div id="badges">
+  <a href="https://colab.research.google.com/drive/19KdNnD2Nv7v_pVMWJ4TuINaVy1Y2QTFa?usp=sharing">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="GoogleColab Badge"/>
   </a>
 </div>
+
+## 🔥 My Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmapr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
