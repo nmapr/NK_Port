@@ -52,5 +52,9 @@ Feel free to connect with me via linkedin <div id="badges">
   
   Developed, trained, and implemented Python-based Machine Learning Classification models to forecast customer retention rates, with Tableau visualization of insights
 
+- [International Debt Statistics Analysis](https://github.com/nmapr/NK_Port/blob/abdd0f34944388f8e980e11ecea2f870438eb1a5/International%20Debt%20Analysis.ipynb)
+
+  Utilized SQL to perform an in-depth analysis of international debt statistics collected by The World Bank
+
 ## 🔥 My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmapr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
