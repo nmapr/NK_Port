@@ -41,15 +41,16 @@ Feel free to connect with me via linkedin <div id="badges">
 </div>
 
 ## 📂 My Projects
-- Land Use Classification <div id="badges">
+- Land Use Classification
+  <div id="badges">
   <a href="https://colab.research.google.com/drive/19KdNnD2Nv7v_pVMWJ4TuINaVy1Y2QTFa?usp=sharing">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="GoogleColab Badge"/>
   </a>
-</div>
+  </div>
   Employed a Convolutional Neural Network (CNN) to classify 21 categories of land use images from a UC Merced dataset. Developed on Google Colab with Python 3.6, TensorFlow, and Keras, all on 256x256 pixel images.
 
 - [Predictive Customer Retention](https://github.com/nmapr/NK_Port/blob/488b3723caf93a915988129ef0b042eac4568fa3/Customer%20retention%20prediction.ipynb)
-  
+
   Developed, trained, and implemented Python-based Machine Learning Classification models to forecast customer retention rates, with Tableau visualization of insights
 
 - [International Debt Statistics Analysis](https://github.com/nmapr/NK_Port/blob/abdd0f34944388f8e980e11ecea2f870438eb1a5/International%20Debt%20Analysis.ipynb)
