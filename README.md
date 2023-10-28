@@ -57,7 +57,9 @@ Feel free to connect with me via linkedin <div id="badges">
 
   Utilized SQL to perform an in-depth analysis of international debt statistics collected by The World Bank
 
-- [Customer Transaction Insights Dashboard]
+- [Customer Transaction Insights Dashboard](https://github.com/nmapr/NK_Port/blob/78ff6d0589f26d72c5ff9dda7dd2528e56e4e69c/Customer%20Transaction%20Insights_PowerBI.pdf)
+
+  <img width="1409" alt="CustInsightDB" src="https://github.com/nmapr/NK_Port/assets/119261876/81d197a8-a4fe-4f0f-af65-6746e9fec258">
 
   Created a Power BI dashboard for [customer transaction](https://www.kaggle.com/datasets/bkcoban/customer-transactions/) data analysis, including visuals for spending trends, top-performing merchants, category totals, gender distribution, and customer growth over time.
 
