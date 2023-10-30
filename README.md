@@ -49,7 +49,7 @@ Feel free to connect with me via linkedin <div id="badges">
   </div>
   Employed a Convolutional Neural Network (CNN) to classify 21 categories of land use images from a UC Merced dataset. Developed on Google Colab with Python 3.6, TensorFlow, and Keras, all on 256x256 pixel images.
 
-- [Predictive Customer Retention](https://github.com/nmapr/NK_Port/blob/488b3723caf93a915988129ef0b042eac4568fa3/Customer%20retention%20prediction.ipynb)
+- [Predictive Customer Retention](https://github.com/nmapr/NK_Port/blob/e89b8f5c8c03d320d8b3bb3fb63d5b9d10bbb7c3/Customer%20retention%20prediction.ipynb)
 
   Developed, trained, and implemented Python-based Machine Learning Classification models to forecast customer retention rates, with Tableau visualization of insights
 
