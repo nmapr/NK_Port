@@ -63,5 +63,11 @@ Feel free to connect with me via linkedin <div id="badges">
 
   Created a Power BI dashboard for [customer transaction](https://www.kaggle.com/datasets/bkcoban/customer-transactions/) data analysis, including visuals for spending trends, top-performing merchants, category totals, gender distribution, and customer growth over time.
 
+- [Customer Transaction Insights Dashboard]()
+
+  ![Exploring_High_Sales_Real_Estate_Characteristics_in_2022](https://github.com/nmapr/NK_Port/assets/119261876/3abb0a8d-04cf-4865-9cc7-c12d5a40b232)
+
+  Created an interactive Looker Studio dashboard for [2022 Property Sales data](https://www.kaggle.com/datasets/agungpambudi/property-sales-data-real-estate-trends/data). To Analyze Key Features of Top-Selling Properties: Visualizing Average Sale Price per Sqft, Leading Property Types by Architectural Style, Number of Rooms, Bedrooms, and Bathrooms.
+
 ## 🔥 My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmapr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
