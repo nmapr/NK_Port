@@ -63,7 +63,7 @@ Feel free to connect with me via linkedin <div id="badges">
 
   Created a Power BI dashboard for [customer transaction](https://www.kaggle.com/datasets/bkcoban/customer-transactions/) data analysis, including visuals for spending trends, top-performing merchants, category totals, gender distribution, and customer growth over time.
 
-- [Customer Transaction Insights Dashboard]()
+- [Customer Transaction Insights Dashboard](https://lookerstudio.google.com/reporting/abe26e23-da4d-478d-a115-ea653064270f)
 
   ![Exploring_High_Sales_Real_Estate_Characteristics_in_2022](https://github.com/nmapr/NK_Port/assets/119261876/3abb0a8d-04cf-4865-9cc7-c12d5a40b232)
 
