@@ -70,7 +70,7 @@ Feel free to connect with me via linkedin <div id="badges">
   - Select specific basket size ranges to analyze their impact
   - Calculate the percentage of orders captured within the chosen range
   - Predict utilization and evaluate the effectiveness of a selected minimum order value strategy
-  <img width="1409" alt="AdInsightDB" src="[https://github.com/nmapr/NK_Port/assets/119261876/81d197a8-a4fe-4f0f-af65-6746e9fec258](https://github.com/nmapr/NK_Port/blob/main/afv.png)">
+  <img width="1409" alt="AdInsightDB" src="https://github.com/nmapr/NK_Port/blob/main/afv.png">
   
 
 - [International Debt Statistics Analysis](https://github.com/nmapr/NK_Port/blob/abdd0f34944388f8e980e11ecea2f870438eb1a5/International%20Debt%20Analysis.ipynb)
