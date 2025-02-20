@@ -53,8 +53,7 @@ Feel free to connect with me via linkedin <div id="badges">
 
   Developed, trained, and implemented Python-based Machine Learning Classification models to forecast customer retention rates, with Tableau visualization of insights
 
-- [Ad Performance Report]
-(https://lookerstudio.google.com/reporting/71f816a9-d2de-48df-bf47-59f43b88ad39)
+- [Ad Performance Report](https://lookerstudio.google.com/reporting/71f816a9-d2de-48df-bf47-59f43b88ad39)
 
   Designed and implemented a Looker Studio dashboard to analyze ad performance metrics, enabling data-driven optimization strategies for improved campaign outcomes
 
