@@ -58,10 +58,12 @@ Feel free to connect with me via linkedin <div id="badges">
   Designed and implemented a Looker Studio dashboard to analyze ad performance metrics, enabling data-driven optimization strategies for improved campaign outcomes
   
   <img width="1409" alt="AdInsightDB" src="https://github.com/nmapr/NK_Port/blob/main/kw11.png">
+  
   <img width="1409" alt="AdInsightDB" src="https://github.com/nmapr/NK_Port/blob/main/kw21.png">
 
 
 - [AFV Analysis](https://github.com/nmapr/NK_Port/blob/main/AFV%20analysis.ipynb)
+
   Developed an interactive Python notebook to conduct in-depth AFV analysis, uncovering pricing strategies to target and unlock the most profitable customer segments
   <img width="1409" alt="AdInsightDB" src="https://github.com/nmapr/NK_Port/blob/main/afv.png">
   The interface includes a histogram graph that visualizes the overall basket size distribution across vendors, providing valuable insights into customer purchasing behavior.
