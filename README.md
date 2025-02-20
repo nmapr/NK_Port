@@ -54,13 +54,24 @@ Feel free to connect with me via linkedin <div id="badges">
   Developed, trained, and implemented Python-based Machine Learning Classification models to forecast customer retention rates, with Tableau visualization of insights
 
 - [Ad Performance Report](https://lookerstudio.google.com/reporting/71f816a9-d2de-48df-bf47-59f43b88ad39)
-
+  
+  <img width="1409" alt="AdInsightDB" src="https://github.com/nmapr/NK_Port/assets/119261876/81d197a8-a4fe-4f0f-af65-6746e9fec258">
+  <img width="1409" alt="AdInsightDB" src="https://github.com/nmapr/NK_Port/assets/119261876/81d197a8-a4fe-4f0f-af65-6746e9fec258">
+  
   Designed and implemented a Looker Studio dashboard to analyze ad performance metrics, enabling data-driven optimization strategies for improved campaign outcomes
 
-- [AFV Analysis]
-  ()
 
+- [AFV Analysis](https://github.com/nmapr/NK_Port/blob/main/AFV%20analysis.ipynb)
   Developed an interactive Python notebook to conduct in-depth AFV analysis, uncovering pricing strategies to target and unlock the most profitable customer segments
+  <img width="1409" alt="AdInsightDB" src="https://github.com/nmapr/NK_Port/assets/119261876/81d197a8-a4fe-4f0f-af65-6746e9fec258">
+  The interface includes a histogram graph that visualizes the overall basket size distribution across vendors, providing valuable insights into customer purchasing behavior.
+
+  Interactive features allow users to:
+  - Select specific basket size ranges to analyze their impact
+  - Calculate the percentage of orders captured within the chosen range
+  - Predict utilization and evaluate the effectiveness of a selected minimum order value strategy
+  <img width="1409" alt="AdInsightDB" src="https://github.com/nmapr/NK_Port/assets/119261876/81d197a8-a4fe-4f0f-af65-6746e9fec258">
+  
 
 - [International Debt Statistics Analysis](https://github.com/nmapr/NK_Port/blob/abdd0f34944388f8e980e11ecea2f870438eb1a5/International%20Debt%20Analysis.ipynb)
 
